@@ -1,0 +1,22 @@
+[server]
+# 업로드 최대 크기(MB) - PRD F1
+maxUploadSize = 10
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# 로컬에서만 보이는 Deploy 버튼 등 개발자 메뉴 숨김
+toolbarMode = "minimal"
+
+[theme.light]
+primaryColor = "#b23a2b"
+backgroundColor = "#f7f1e3"
+secondaryBackgroundColor = "#efe5cf"
+textColor = "#2a2522"
+
+[theme.dark]
+primaryColor = "#e2735f"
+backgroundColor = "#1b1714"
+secondaryBackgroundColor = "#2f2822"
+textColor = "#efe7d6"
